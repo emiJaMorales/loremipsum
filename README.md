@@ -1,2 +1,2 @@
-# -loremipsum
+# loremipsum
 Mi primer repositorio
